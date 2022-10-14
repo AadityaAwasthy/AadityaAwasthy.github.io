@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome !! This is Aaditya's daily blog page , you can follow his life here !!.
 
-Maybe say a some things about yourself.
+Aspiring software engineer , musician (keyboard , drums , guitar ) , in short extremely talented guy.
 
-Or maybe what you plan to blog about.
+I will blog my daily events here.
